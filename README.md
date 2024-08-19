@@ -64,9 +64,7 @@ The notebook covers the following key aspects:
 
 The notebook provides various insights into the COVID-19 pandemic, including visualizations that showcase the trends in confirmed cases, recoveries, deaths, and more. These insights can be used for further analysis or as a reference for understanding the pandemic's progression.
 
-## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
